@@ -1,9 +1,6 @@
 #!/usr/bin/python3
 
 from pyrob.api import *
-def move1():
-    for x in range(4):
-        move_left()
 
 
 @task
